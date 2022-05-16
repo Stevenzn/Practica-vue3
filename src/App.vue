@@ -2,7 +2,7 @@
   <div class="container">
     <img src="./assets/logo.svg" alt="Logo" width="125" height="125" />
     <small>
-      <h1>Hola mundo desde vue</h1>
+      <h1>ContadorApp</h1>
     </small>
     <hr />
     <h2>contador: {{ contador }}</h2>
